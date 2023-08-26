@@ -94,4 +94,4 @@ If you have any further questions or need more advanced customization, refer to 
 
 ## Final step:
 To complete the third task of scavenger hunt, you need to make a Pull Request in this repository having the link of your personal portfolio website. 
-All the best!!✨
+All the best!!
