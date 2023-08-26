@@ -14,11 +14,11 @@ This README file will guide you through the process of creating and deploying yo
 7. [Domain Setup (Optional)](#domain-setup-optional)
 8. [Conclusion](#conclusion)
 
-## Introduction:
+## Introduction
 
 This repository will serve as the foundation for your personal portfolio website. It includes a basic structure and styling that you can customize to match your personal brand. We will use GitHub Pages to host and publish your portfolio website online.
 
-## Prerequisites:
+## Prerequisites
 
 Before you begin, make sure you have the following:
 
